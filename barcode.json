@@ -1,0 +1,62 @@
+[	
+	{
+  		"word": "Work it",
+		"image": "make_it.png"
+	},
+	{
+  		"word": "Do it",
+		"image": "makes_us.png"
+	},
+	{
+  		"word": "Harder",
+		"image": "better.png"
+	},
+	{
+  		"word": "faster",
+		"image": "stronger.png"
+	},
+	{
+  		"word": "more than",
+		"image": "hour.png"
+	},
+	{
+  		"word": "hour",
+		"image": "never.png"
+	},
+	{
+  		"word": "ever",
+		"image": "after.png"
+	},
+	{
+  		"word": "work is",
+		"image": "over.png"
+	},
+	{
+  		"word": "make it",
+		"image": "workit.png"
+	},
+	{
+  		"word": "makes us",
+		"image": "do_it.png"
+	},
+	{
+  		"word": "better",
+		"image": "harder.png"
+	},
+	{
+  		"word": "stronger",
+		"image": "faster.png"
+	},
+	{
+  		"word": "never",
+		"image": "hour.png"
+	},
+	{
+  		"word": "after",
+		"image": "ever.png"
+	},
+	{
+  		"word": "over",
+		"image": "work_is.png"
+	}
+]
